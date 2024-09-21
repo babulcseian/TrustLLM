@@ -14,9 +14,9 @@
 [![Leaderboard](https://img.shields.io/badge/Leaderboard-%F0%9F%9A%80-brightgreen?style=for-the-badge&logoWidth=40)](https://trustllmbenchmark.github.io/TrustLLM-Website/leaderboard.html)
 [![Toolkit Document](https://img.shields.io/badge/Toolkit%20Document-%F0%9F%93%9A-blueviolet?style=for-the-badge&logoWidth=40)](https://howiehwong.github.io/TrustLLM/)
 
-[![Downloads](https://static.pepy.tech/badge/trustllm)](https://pepy.tech/project/trustllm)
-[![Downloads](https://static.pepy.tech/badge/trustllm/month)](https://pepy.tech/project/trustllm)
-[![Downloads](https://static.pepy.tech/badge/trustllm/week)](https://pepy.tech/project/trustllm)
+[![Downloads](https://static.pepy.tech/badge/trustllm)](https://www.tensorflow.org/resources/learn-ml/basics-of-machine-learning)
+[![Downloads](https://static.pepy.tech/badge/trustllm/month)](https://babulcseian.github.io/contact)
+[![Downloads](https://static.pepy.tech/badge/trustllm/week)](https://babulcseian.github.io/contact)
 
 
 <img src="https://img.shields.io/github/last-commit/HowieHwong/TrustLLM?style=flat-square&color=5D6D7E" alt="git-last-commit" />
